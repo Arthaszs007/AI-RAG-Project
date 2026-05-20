@@ -83,9 +83,10 @@ LLM 生成回答
 
 ---
 
-## 📌 注意事项
+## 📌 界面展示
 
-本项目用于学习和 Demo 展示
+![问答界面](https://github.com/Arthaszs007/resource/blob/main/rag-img/chat.png)
+![文件管理界面](https://github.com/Arthaszs007/resource/blob/main/rag-img/lib.png)
 
 ---
 
