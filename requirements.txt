@@ -1,0 +1,14 @@
+streamlit>=1.40
+
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+
+pypdf
+python-docx
+pandas
+numpy
+
+python-dotenv
