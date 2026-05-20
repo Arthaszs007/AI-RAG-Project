@@ -83,9 +83,12 @@ LLM 生成回答
 
 ---
 
-## 📌 界面展示
-
+## 🧠 问答界面（Chat Interface）
 ![问答界面](https://github.com/Arthaszs007/resource/blob/main/rag-img/chat.png)
+
+---
+
+## 📂 文件管理界面（Library Management）
 ![文件管理界面](https://github.com/Arthaszs007/resource/blob/main/rag-img/lib.png)
 
 ---
